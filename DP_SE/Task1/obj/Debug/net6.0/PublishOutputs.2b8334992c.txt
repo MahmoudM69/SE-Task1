@@ -1,5 +1,0 @@
-/media/lenovo-b590/92A816A5A81687BD/KSU/2022-2023/Software Engineering/Tasks/DP_SE/publish/DP_SE
-/media/lenovo-b590/92A816A5A81687BD/KSU/2022-2023/Software Engineering/Tasks/DP_SE/publish/DP_SE.dll
-/media/lenovo-b590/92A816A5A81687BD/KSU/2022-2023/Software Engineering/Tasks/DP_SE/publish/DP_SE.deps.json
-/media/lenovo-b590/92A816A5A81687BD/KSU/2022-2023/Software Engineering/Tasks/DP_SE/publish/DP_SE.runtimeconfig.json
-/media/lenovo-b590/92A816A5A81687BD/KSU/2022-2023/Software Engineering/Tasks/DP_SE/publish/DP_SE.pdb
